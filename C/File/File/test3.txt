@@ -1,0 +1,5 @@
+Ivanov                           5 4 4
+Petrashevsky                     4 3 4
+Kim                              5 3 5
+Pupkin                           4 3 3
+Kuzin                            5 5 5

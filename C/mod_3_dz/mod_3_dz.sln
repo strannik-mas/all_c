@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mod_3_dz", "mod_3_dz\mod_3_dz.vcxproj", "{C456EE41-D296-40C4-A37E-FEA681132556}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C456EE41-D296-40C4-A37E-FEA681132556}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C456EE41-D296-40C4-A37E-FEA681132556}.Debug|Win32.Build.0 = Debug|Win32
+		{C456EE41-D296-40C4-A37E-FEA681132556}.Release|Win32.ActiveCfg = Release|Win32
+		{C456EE41-D296-40C4-A37E-FEA681132556}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
